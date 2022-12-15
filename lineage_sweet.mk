@@ -15,7 +15,7 @@ $(call inherit-product, device/xiaomi/sweet/device.mk)
 $(call inherit-product, vendor/lineage/config/common.mk)
 TARGET_BOOT_ANIMATION_RES := 1080
 
-PRODUCT_NAME := aosp_sweet
+PRODUCT_NAME := crdroid_sweet
 PRODUCT_DEVICE := sweet
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Redmi Note 10 Pro
