@@ -5,7 +5,7 @@ git clone https://github.com/itsshashanksp/kernel_xiaomi_sm6150 -b t13 kernel/xi
 # Vendor
 git clone https://github.com/PixelOS-Devices/vendor_xiaomi -b 13.0 vendor/xiaomi
 # Xiaomi hardware
-git clone https://github.com/ionutgherman/hardware_xiaomi -b lineage-20 hardware/xiaomi
+git clone https://github.com/LineageOS/android_hardware_xiaomi -b lineage-20 hardware/xiaomi
 # MIUI Camera
 git clone https://gitlab.com/mrfox2003/sweet-miuicamera -b thirteen vendor/xiaomi/sweet-miuicamera
 # Clang
